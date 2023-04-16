@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 ",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Susan Mwangi",
+      "username": "Susan",
+      "email": "Susan@april.biz",
+      "phone": "1-780-737-8032 ",
+      "website": "susandec.org"
+    },
+    {
+      "id": 3,
+      "name": "Enock Shiosho",
+      "username": "Enock",
+      "email": "Shiosho@april.biz",
+      "phone": "1-790-738-8033 ",
+      "website": "grahamgard.com"
+    },
+    {
+      "id": 4,
+      "name": "John Doe",
+      "username": "John",
+      "email": "Doe@april.biz",
+      "phone": "1-771-740-8035 ",
+      "website": "jdoe.org"
+    },
+    {
+      "id": 5,
+      "name": "Jane Doe",
+      "username": "Jane",
+      "email": "jane@april.biz",
+      "phone": "1-790-756-7031 ",
+      "website": "pinks.org"
+    },
+    {
+      "id": 6,
+      "name": "Marcus Thompson",
+      "username": "Marcus",
+      "email": "Thomson@april.biz",
+      "phone": "1-782-736-9031 ",
+      "website": "Thompson.org"
+    }
+  ]
+}
